@@ -1,2 +1,3 @@
 hello,it is my first git test!
 second line~
+branch test
